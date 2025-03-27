@@ -1,1 +1,3 @@
 Motivos por el cual no se termino el chatbot
+
+No hubo los recursos ni tiempo suficiente para completar el entrenamiento, dejamos los archivos para dejar constancia del trabajo pero lastimosament no se pudo completar
